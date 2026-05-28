@@ -1,0 +1,7 @@
+
+[28/05/2026, 15:09:01] URL acessada: /
+
+[28/05/2026, 15:09:02] URL acessada: /favicon.ico
+[28/05/2026, 16:01:36] URL acessada: /
+
+[28/05/2026, 16:01:36] URL acessada: /favicon.ico
